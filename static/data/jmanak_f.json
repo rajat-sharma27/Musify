@@ -1,0 +1,504 @@
+{
+    "data": [
+        {
+            "id": "jmanak0",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 172000,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak1",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 172800,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak3",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 160730,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak4",
+            "artistsName": "Mukul Verma",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Can't Say",
+            "time": 160298,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27392923779f973168362ae396e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0292923779f973168362ae396e",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485192923779f973168362ae396e"
+        },
+        {
+            "id": "jmanak5",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 175425,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak2",
+            "artistsName": "Prince The Artist Singh",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Falling For You",
+            "time": 172062,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273227f5cc0dc8cfcfe3a4d5729",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02227f5cc0dc8cfcfe3a4d5729",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851227f5cc0dc8cfcfe3a4d5729"
+        },
+        {
+            "id": "jmanak6",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 196918,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak7",
+            "artistsName": "Prince The Artist Singh",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "RAGS TO RICHES",
+            "time": 138666,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2730633561b480b374ccdf071c0",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e020633561b480b374ccdf071c0",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048510633561b480b374ccdf071c0"
+        },
+        {
+            "id": "jmanak8",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 156750,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak10",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 196149,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak11",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Adhi Raat (From \"Love Thunder\")",
+            "time": 213954,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273093f2e87c54be979bd4a958a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02093f2e87c54be979bd4a958a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851093f2e87c54be979bd4a958a"
+        },
+        {
+            "id": "jmanak13",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Rabb Wangu (From \"Sikander 2\")",
+            "time": 195708,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273aa333437a1ffa66476f383aa",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02aa333437a1ffa66476f383aa",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851aa333437a1ffa66476f383aa"
+        },
+        {
+            "id": "jmanak9",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Love Thunder",
+            "time": 203388,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273376173456a3368d9b530f69a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02376173456a3368d9b530f69a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851376173456a3368d9b530f69a"
+        },
+        {
+            "id": "jmanak14",
+            "artistsName": "Prince The Artist Singh",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "PYAR HOGYA",
+            "time": 168000,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734f72dbec45b1d58a8b6113cf",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024f72dbec45b1d58a8b6113cf",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514f72dbec45b1d58a8b6113cf"
+        },
+        {
+            "id": "jmanak12",
+            "artistsName": "Deep Harks",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Affected",
+            "time": 227160,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273190abfb11bb9a9c5f2af20e3",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02190abfb11bb9a9c5f2af20e3",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851190abfb11bb9a9c5f2af20e3"
+        },
+        {
+            "id": "jmanak16",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "No Competition",
+            "time": 205500,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2732f8aea22b8e62bd6084e7094",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e022f8aea22b8e62bd6084e7094",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048512f8aea22b8e62bd6084e7094"
+        },
+        {
+            "id": "jmanak17",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Tera Mera Viah",
+            "time": 197142,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273500d591d3bc0191f129e62f7",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02500d591d3bc0191f129e62f7",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851500d591d3bc0191f129e62f7"
+        },
+        {
+            "id": "jmanak19",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Khyaal",
+            "time": 271714,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273800d050bf16faee432f77dc3",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02800d050bf16faee432f77dc3",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851800d050bf16faee432f77dc3"
+        },
+        {
+            "id": "jmanak18",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Saiyaan",
+            "time": 175882,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2733648c5c54b253169e2dd8895",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e023648c5c54b253169e2dd8895",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048513648c5c54b253169e2dd8895"
+        },
+        {
+            "id": "jmanak21",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 177272,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734f94e3d52298b410673d1164",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024f94e3d52298b410673d1164",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514f94e3d52298b410673d1164"
+        },
+        {
+            "id": "jmanak22",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 156923,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak20",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 187764,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak24",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 151651,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak25",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 191403,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak26",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 218034,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak27",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 195542,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak28",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 162441,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak30",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Boss",
+            "time": 146700,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273061dbc82587ab03de8de74b3",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02061dbc82587ab03de8de74b3",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851061dbc82587ab03de8de74b3"
+        },
+        {
+            "id": "jmanak29",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 189022,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak31",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Suit Punjabi",
+            "time": 201745,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27388f6cf9401da8f8910674704",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0288f6cf9401da8f8910674704",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485188f6cf9401da8f8910674704"
+        },
+        {
+            "id": "jmanak23",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Age 19",
+            "time": 167701,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27364cdf643e4caba173d9d22ee",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0264cdf643e4caba173d9d22ee",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485164cdf643e4caba173d9d22ee"
+        },
+        {
+            "id": "jmanak33",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Gal Sun",
+            "time": 192631,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2730585f4898134a557e812175c",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e020585f4898134a557e812175c",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048510585f4898134a557e812175c"
+        },
+        {
+            "id": "jmanak34",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Allah",
+            "time": 199090,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27317bdf63959bbb92908bf431c",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0217bdf63959bbb92908bf431c",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485117bdf63959bbb92908bf431c"
+        },
+        {
+            "id": "jmanak35",
+            "artistsName": "Gippy Grewal",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "The Main Man",
+            "time": 161355,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273cfe8c8e90b13d921ccff6fbf",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02cfe8c8e90b13d921ccff6fbf",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851cfe8c8e90b13d921ccff6fbf"
+        },
+        {
+            "id": "jmanak36",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 153176,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739ebf87346c31db1b0dea0f1e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029ebf87346c31db1b0dea0f1e",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519ebf87346c31db1b0dea0f1e"
+        },
+        {
+            "id": "jmanak37",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Gangland in Motherland (Title Song)",
+            "time": 158328,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739c5eb7a7ff411f2a2060dbde",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029c5eb7a7ff411f2a2060dbde",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519c5eb7a7ff411f2a2060dbde"
+        },
+        {
+            "id": "jmanak32",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Toronto",
+            "time": 174614,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273f10711496908c8e91e909341",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02f10711496908c8e91e909341",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851f10711496908c8e91e909341"
+        },
+        {
+            "id": "jmanak38",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 191351,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739ebf87346c31db1b0dea0f1e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029ebf87346c31db1b0dea0f1e",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519ebf87346c31db1b0dea0f1e"
+        },
+        {
+            "id": "jmanak39",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "No Competition",
+            "time": 156144,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2732f8aea22b8e62bd6084e7094",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e022f8aea22b8e62bd6084e7094",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048512f8aea22b8e62bd6084e7094"
+        },
+        {
+            "id": "jmanak40",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Tik-Tok",
+            "time": 207516,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273c3376596a814eb8a81ade095",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02c3376596a814eb8a81ade095",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851c3376596a814eb8a81ade095"
+        },
+        {
+            "id": "jmanak42",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "No Competition",
+            "time": 198128,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2732f8aea22b8e62bd6084e7094",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e022f8aea22b8e62bd6084e7094",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048512f8aea22b8e62bd6084e7094"
+        },
+        {
+            "id": "jmanak41",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 227393,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739ebf87346c31db1b0dea0f1e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029ebf87346c31db1b0dea0f1e",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519ebf87346c31db1b0dea0f1e"
+        },
+        {
+            "id": "jmanak44",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 173269,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739ebf87346c31db1b0dea0f1e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029ebf87346c31db1b0dea0f1e",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519ebf87346c31db1b0dea0f1e"
+        },
+        {
+            "id": "jmanak15",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Naah",
+            "time": 185574,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2730d203ac6e57991cc20ac49d9",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e020d203ac6e57991cc20ac49d9",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048510d203ac6e57991cc20ac49d9"
+        },
+        {
+            "id": "jmanak43",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Dhokha",
+            "time": 193513,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2733e374ef479f591db121448a4",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e023e374ef479f591db121448a4",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048513e374ef479f591db121448a4"
+        },
+        {
+            "id": "jmanak45",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Without You",
+            "time": 193018,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273c2d534ee27489cf29b919106",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02c2d534ee27489cf29b919106",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851c2d534ee27489cf29b919106"
+        },
+        {
+            "id": "jmanak48",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Karwa Chauth",
+            "time": 239333,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739091a96dedf5ea0c874d925c",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029091a96dedf5ea0c874d925c",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519091a96dedf5ea0c874d925c"
+        },
+        {
+            "id": "jmanak49",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "No Competition",
+            "time": 256941,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2732f8aea22b8e62bd6084e7094",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e022f8aea22b8e62bd6084e7094",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048512f8aea22b8e62bd6084e7094"
+        },
+        {
+            "id": "jmanak46",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Sexy",
+            "time": 162273,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273c151bad524ea11b0ddeeebf0",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02c151bad524ea11b0ddeeebf0",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851c151bad524ea11b0ddeeebf0"
+        },
+        {
+            "id": "jmanak47",
+            "artistsName": "Jass Manak",
+            "description": "Jaspreet Singh Manak is an Indian singer-songwriter. He is known predominantly for the songs &quot;Prada&quot;, &quot;Suit Punjabi&quot;, &quot;Lehanga&quot;, &quot;Viah&quot; and &quot;Boss&quot;.",
+            "songName": "Bad Munda",
+            "time": 197005,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739ebf87346c31db1b0dea0f1e",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029ebf87346c31db1b0dea0f1e",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519ebf87346c31db1b0dea0f1e"
+        }
+    ]
+}

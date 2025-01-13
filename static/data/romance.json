@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "id": "romance1",
+            "artistsName": "Bryson Tiller",
+            "songName": "T R A P S O U L",
+            "time": 198293,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02d5f3cea8affdca01a0dc754f",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851d5f3cea8affdca01a0dc754f"
+        },
+        {
+            "id": "romance2",
+            "artistsName": "SZA",
+            "songName": "Ctrl",
+            "time": 231253,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024c79d5ec52a6d0302f3add25",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514c79d5ec52a6d0302f3add25"
+        },
+        {
+            "id": "romance0",
+            "artistsName": "Daniel Caesar",
+            "songName": "Freudian",
+            "time": 278179,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048513138f891f3075c9c5d944037"
+        },
+        {
+            "id": "romance4",
+            "artistsName": "Kendrick Lamar",
+            "songName": "DAMN.",
+            "time": 213400,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699"
+        },
+        {
+            "id": "romance3",
+            "artistsName": "Tory Lanez",
+            "songName": "I Told You",
+            "time": 237786,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739f7ce2227875fd3d645fb5d6",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029f7ce2227875fd3d645fb5d6",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519f7ce2227875fd3d645fb5d6"
+        },
+        {
+            "id": "romance6",
+            "artistsName": "Jacquees",
+            "songName": "4275 (Bonus Version)",
+            "time": 236146,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273276ce856b01e1590c0991850",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02276ce856b01e1590c0991850",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851276ce856b01e1590c0991850"
+        },
+        {
+            "id": "romance5",
+            "artistsName": "Meek Mill",
+            "songName": "Legends of the Summer",
+            "time": 234589,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27343ca0ac9d4e592e2781d78d4",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0243ca0ac9d4e592e2781d78d4",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485143ca0ac9d4e592e2781d78d4"
+        },
+        {
+            "id": "romance9",
+            "artistsName": "Daniel Caesar",
+            "songName": "H.E.R.",
+            "time": 209400,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273b5d9c8de465654c20d77305c",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02b5d9c8de465654c20d77305c",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851b5d9c8de465654c20d77305c"
+        },
+        {
+            "id": "romance8",
+            "artistsName": "SZA",
+            "songName": "The Weekend (Funk Wav Remix)",
+            "time": 171805,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273b19d1cc6a00ae1d4ddcbfd37",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02b19d1cc6a00ae1d4ddcbfd37",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851b19d1cc6a00ae1d4ddcbfd37"
+        },
+        {
+            "id": "romance7",
+            "artistsName": "PnB Rock",
+            "songName": "GTTM: Goin Thru the Motions",
+            "time": 209050,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273e9fb616403542596d3ede300",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02e9fb616403542596d3ede300",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851e9fb616403542596d3ede300"
+        },
+        {
+            "id": "romance12",
+            "artistsName": "Bryson Tiller",
+            "songName": "T R A P S O U L",
+            "time": 194613,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02d5f3cea8affdca01a0dc754f",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851d5f3cea8affdca01a0dc754f"
+        },
+        {
+            "id": "romance11",
+            "artistsName": "Jacquees",
+            "songName": "19 - EP",
+            "time": 291500,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734da5d4a8c40645fa580393ad",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024da5d4a8c40645fa580393ad",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514da5d4a8c40645fa580393ad"
+        },
+        {
+            "id": "romance10",
+            "artistsName": "SZA",
+            "songName": "Ctrl",
+            "time": 275080,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024c79d5ec52a6d0302f3add25",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514c79d5ec52a6d0302f3add25"
+        },
+        {
+            "id": "romance15",
+            "artistsName": "Summer Walker",
+            "songName": "Last Day Of Summer",
+            "time": 222374,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273fb023e6073e38a52082cc7b6",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02fb023e6073e38a52082cc7b6",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851fb023e6073e38a52082cc7b6"
+        },
+        {
+            "id": "romance16",
+            "artistsName": "PARTYNEXTDOOR",
+            "songName": "PARTYNEXTDOOR 3 (P3)",
+            "time": 235477,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27346b39ced8f129323f46ebb14",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0246b39ced8f129323f46ebb14",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485146b39ced8f129323f46ebb14"
+        },
+        {
+            "id": "romance13",
+            "artistsName": "Trevor Daniel",
+            "songName": "Falling",
+            "time": 159381,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2730e4bd9ce99988f3182bf771a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e020e4bd9ce99988f3182bf771a",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048510e4bd9ce99988f3182bf771a"
+        },
+        {
+            "id": "romance18",
+            "artistsName": "Jacquees",
+            "songName": "4275 (Bonus Version)",
+            "time": 217386,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273276ce856b01e1590c0991850",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02276ce856b01e1590c0991850",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851276ce856b01e1590c0991850"
+        },
+        {
+            "id": "romance19",
+            "artistsName": "Jeremih",
+            "songName": "Late Nights: The Album",
+            "time": 238320,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273262c8e955ad5c60b1d0abf53",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02262c8e955ad5c60b1d0abf53",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851262c8e955ad5c60b1d0abf53"
+        },
+        {
+            "id": "romance20",
+            "artistsName": "PnB Rock",
+            "songName": "GTTM: Goin Thru the Motions",
+            "time": 245604,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273e9fb616403542596d3ede300",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02e9fb616403542596d3ede300",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851e9fb616403542596d3ede300"
+        },
+        {
+            "id": "romance21",
+            "artistsName": "Drake",
+            "songName": "More Life",
+            "time": 219692,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700"
+        },
+        {
+            "id": "romance22",
+            "artistsName": "Drake",
+            "songName": "Views",
+            "time": 238120,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c"
+        },
+        {
+            "id": "romance17",
+            "artistsName": "SZA",
+            "songName": "Ctrl",
+            "time": 272186,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024c79d5ec52a6d0302f3add25",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514c79d5ec52a6d0302f3add25"
+        },
+        {
+            "id": "romance23",
+            "artistsName": "Jeremih",
+            "songName": "Late Nights: The Album",
+            "time": 245520,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273262c8e955ad5c60b1d0abf53",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02262c8e955ad5c60b1d0abf53",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851262c8e955ad5c60b1d0abf53"
+        },
+        {
+            "id": "romance26",
+            "artistsName": "TK Kravitz",
+            "songName": "2.0",
+            "time": 219437,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27340d38708c37f32cd2d901d5f",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0240d38708c37f32cd2d901d5f",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485140d38708c37f32cd2d901d5f"
+        },
+        {
+            "id": "romance24",
+            "artistsName": "Bryson Tiller",
+            "songName": "Let Me Explain",
+            "time": 223969,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27301cf25142249e6911f7dd6e5",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0201cf25142249e6911f7dd6e5",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485101cf25142249e6911f7dd6e5"
+        },
+        {
+            "id": "romance28",
+            "artistsName": "Chris Brown",
+            "songName": "Indigo",
+            "time": 260640,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739e588b0c2afe8178b2b76231",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029e588b0c2afe8178b2b76231",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519e588b0c2afe8178b2b76231"
+        },
+        {
+            "id": "romance27",
+            "artistsName": "PARTYNEXTDOOR",
+            "songName": "COLOURS 2",
+            "time": 272339,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2734dba72cf4863a442de28f38d",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e024dba72cf4863a442de28f38d",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048514dba72cf4863a442de28f38d"
+        },
+        {
+            "id": "romance25",
+            "artistsName": "PARTYNEXTDOOR",
+            "songName": "PARTYNEXTDOOR",
+            "time": 212880,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2730a4fd8aa50652821b1a2a054",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e020a4fd8aa50652821b1a2a054",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048510a4fd8aa50652821b1a2a054"
+        },
+        {
+            "id": "romance29",
+            "artistsName": "PnB Rock",
+            "songName": "Catch These Vibes",
+            "time": 221000,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273673c1e3c47e3bd50ea78a3ef",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02673c1e3c47e3bd50ea78a3ef",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851673c1e3c47e3bd50ea78a3ef"
+        },
+        {
+            "id": "romance30",
+            "artistsName": "Summer Walker",
+            "songName": "Last Day Of Summer",
+            "time": 140760,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273fb023e6073e38a52082cc7b6",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02fb023e6073e38a52082cc7b6",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851fb023e6073e38a52082cc7b6"
+        }
+    ]
+}

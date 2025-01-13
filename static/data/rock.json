@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "id": "rock0",
+            "artistsName": "Selena Gomez",
+            "songName": "Wolves",
+            "time": 197993,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02307910d4242c0d6b1fedf955",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851307910d4242c0d6b1fedf955"
+        },
+        {
+            "id": "rock1",
+            "artistsName": "DJ Snake",
+            "songName": "Encore",
+            "time": 205946,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02212d776c31027c511f0ee3bc",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851212d776c31027c511f0ee3bc"
+        },
+        {
+            "id": "rock2",
+            "artistsName": "Ed Sheeran",
+            "songName": "÷ (Deluxe)",
+            "time": 233712,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
+        },
+        {
+            "id": "rock4",
+            "artistsName": "Clean Bandit",
+            "songName": "What Is Love? (Deluxe Edition)",
+            "time": 212733,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d"
+        },
+        {
+            "id": "rock6",
+            "artistsName": "Alan Walker",
+            "songName": "Different World",
+            "time": 160426,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+        },
+        {
+            "id": "rock3",
+            "artistsName": "Alan Walker",
+            "songName": "Different World",
+            "time": 212106,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+        },
+        {
+            "id": "rock7",
+            "artistsName": "Marshmello",
+            "songName": "FRIENDS",
+            "time": 202620,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273569f64493ca55cd96fdee412",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02569f64493ca55cd96fdee412",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851569f64493ca55cd96fdee412"
+        },
+        {
+            "id": "rock5",
+            "artistsName": "Clean Bandit",
+            "songName": "What Is Love? (Deluxe Edition)",
+            "time": 251173,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d"
+        },
+        {
+            "id": "rock10",
+            "artistsName": "Imagine Dragons",
+            "songName": "Evolve",
+            "time": 187146,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a"
+        },
+        {
+            "id": "rock8",
+            "artistsName": "DJ Snake",
+            "songName": "Let Me Love You (R3hab Remix)",
+            "time": 175000,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27376c618dfe91be7abe81eb178",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0276c618dfe91be7abe81eb178",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485176c618dfe91be7abe81eb178"
+        },
+        {
+            "id": "rock9",
+            "artistsName": "Anne-Marie",
+            "songName": "Speak Your Mind (Deluxe)",
+            "time": 199773,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485138aae75dc37fb42457866ffd"
+        },
+        {
+            "id": "rock12",
+            "artistsName": "Clean Bandit",
+            "songName": "What Is Love? (Deluxe Edition)",
+            "time": 222706,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d"
+        },
+        {
+            "id": "rock13",
+            "artistsName": "Cartoon",
+            "songName": "On & On",
+            "time": 207068,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2732773b7d6ca91258a83d06783",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e022773b7d6ca91258a83d06783",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048512773b7d6ca91258a83d06783"
+        },
+        {
+            "id": "rock11",
+            "artistsName": "Anne-Marie",
+            "songName": "Speak Your Mind (Deluxe)",
+            "time": 205593,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485138aae75dc37fb42457866ffd"
+        },
+        {
+            "id": "rock14",
+            "artistsName": "Sabrina Carpenter",
+            "songName": "EVOLution",
+            "time": 216466,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273d6641a0296d8d09e416e0acd",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02d6641a0296d8d09e416e0acd",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851d6641a0296d8d09e416e0acd"
+        },
+        {
+            "id": "rock15",
+            "artistsName": "Anne-Marie",
+            "songName": "Speak Your Mind (Deluxe)",
+            "time": 186986,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485138aae75dc37fb42457866ffd"
+        },
+        {
+            "id": "rock18",
+            "artistsName": "The Chainsmokers",
+            "songName": "Don't Let Me Down (Remixes) (feat. Daya)",
+            "time": 195093,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27317e91c66eac95d844e8595da",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0217e91c66eac95d844e8595da",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485117e91c66eac95d844e8595da"
+        },
+        {
+            "id": "rock19",
+            "artistsName": "Sabrina Carpenter",
+            "songName": "Singular Act I",
+            "time": 218080,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27338b27a27cea311f34bb68eff",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0238b27a27cea311f34bb68eff",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485138b27a27cea311f34bb68eff"
+        },
+        {
+            "id": "rock17",
+            "artistsName": "The Chainsmokers",
+            "songName": "Don't Let Me Down (Remixes) (feat. Daya)",
+            "time": 218933,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27317e91c66eac95d844e8595da",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0217e91c66eac95d844e8595da",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485117e91c66eac95d844e8595da"
+        },
+        {
+            "id": "rock21",
+            "artistsName": "Imagine Dragons",
+            "songName": "Evolve",
+            "time": 201240,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a"
+        },
+        {
+            "id": "rock16",
+            "artistsName": "The Chainsmokers",
+            "songName": "Don't Let Me Down",
+            "time": 208373,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273df7cddc2d32ef9df762d5a30",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02df7cddc2d32ef9df762d5a30",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851df7cddc2d32ef9df762d5a30"
+        },
+        {
+            "id": "rock22",
+            "artistsName": "Kygo",
+            "songName": "It Ain't Me (with Selena Gomez)",
+            "time": 220780,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27341f289940f2e6a0d51988d77",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0241f289940f2e6a0d51988d77",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485141f289940f2e6a0d51988d77"
+        },
+        {
+            "id": "rock24",
+            "artistsName": "Marshmello",
+            "songName": "OK Not To Be OK (Duke & Jones Remix)",
+            "time": 154426,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273d8b9b52237365dd96cbe578d",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02d8b9b52237365dd96cbe578d",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851d8b9b52237365dd96cbe578d"
+        },
+        {
+            "id": "rock23",
+            "artistsName": "Marshmello",
+            "songName": "OK Not To Be OK",
+            "time": 159862,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27353d09a982d1c5c0cd58b1b88",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0253d09a982d1c5c0cd58b1b88",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485153d09a982d1c5c0cd58b1b88"
+        },
+        {
+            "id": "rock20",
+            "artistsName": "Imagine Dragons",
+            "songName": "Evolve",
+            "time": 204346,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a"
+        },
+        {
+            "id": "rock25",
+            "artistsName": "The Chainsmokers",
+            "songName": "Don't Let Me Down (feat. Daya) [Hardwell & Sephyx Remix]",
+            "time": 162440,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2739cb4ef4ba3b63d298c7cbad1",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e029cb4ef4ba3b63d298c7cbad1",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048519cb4ef4ba3b63d298c7cbad1"
+        },
+        {
+            "id": "rock27",
+            "artistsName": "Alan Walker",
+            "songName": "On My Way",
+            "time": 193797,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273d2aaf635815c265aa1ecdecc",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02d2aaf635815c265aa1ecdecc",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851d2aaf635815c265aa1ecdecc"
+        },
+        {
+            "id": "rock26",
+            "artistsName": "Anne-Marie",
+            "songName": "Speak Your Mind (Deluxe)",
+            "time": 200146,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd",
+            "Image_l": "https://i.scdn.co/image/ab67616d0000485138aae75dc37fb42457866ffd"
+        },
+        {
+            "id": "rock28",
+            "artistsName": "Alan Walker",
+            "songName": "Different World",
+            "time": 211680,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a",
+            "Image_l": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+        },
+        {
+            "id": "rock29",
+            "artistsName": "Anne-Marie",
+            "songName": "Alarm (Remixes)",
+            "time": 219718,
+            "Image_s": "https://i.scdn.co/image/ab67616d0000b2731f3a1ced882771fc1ee1ceb0",
+            "Image_m": "https://i.scdn.co/image/ab67616d00001e021f3a1ced882771fc1ee1ceb0",
+            "Image_l": "https://i.scdn.co/image/ab67616d000048511f3a1ced882771fc1ee1ceb0"
+        }
+    ]
+}
