@@ -1,0 +1,45 @@
+<%- include("header") -%>
+<script src="https://kit.fontawesome.com/7c21f95028.js" crossorigin="anonymous"></script>
+<!-- <ul class="list-group list-group-flush" id="seeall_id">
+    <li class="list-group-item">
+        <div>
+            <span style="padding-right: 30px;">1.</span>
+            <img src="/img/login-1.jpeg" width="50" height="50" alt="">
+            <span style="padding-left: 50px;">Cras justo odio</span>
+            <span style="padding-left: 200px;">artist name</span>
+            <span style="padding-left: 300px;">artist name</span>
+            <span style="float: right; padding-right: 12px; padding-top: 14px;">4:05</span>
+       </div>
+    </li>
+</ul> -->
+    
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Image</th>
+        <th scope="col">Track</th>
+        <th scope="col">Artist</th>
+        <th>Playlist</th>
+        <th>Like</th>
+        <th scope="col">Duration</th>
+      </tr>
+    </thead>
+    <tbody id = "seeall_id">
+      <tr>
+        <th scope="row">1</th>
+        <td>Mark</td>
+        <td>Otto</td>
+        <td>add to playlist</td>
+        <td><i class="fa-regular fa-heart"></i></td>
+        <td>0</td>
+        
+      </tr>
+    </tbody>
+  </table>
+  <!-- <script>(console.log('<%=lkSongs%>'))</script> -->
+
+  <script src="../js/seeall.js"> </script>
+  <script>seeall('<%=id%>','<%=lkSongs%>')</script>
+
+<%- include("footer") -%>
