@@ -1,0 +1,377 @@
+
+:root{
+    --headfont:'Dancing Script', cursive;
+    --textfont:'Handlee', cursive;
+  }
+  body {
+    font-family: 'Oxygen', sans-serif;
+  }
+  .nav-link, .dash-link{
+    color: inherit !important;
+  }
+  .dash-link:hover{
+    text-decoration: none;
+    color: inherit !important;
+  }
+  h2{
+    font-family: var(--headfont)
+  }
+  h4,h3,h5{
+    font-family: var(--textfont)
+  }
+  a:hover{
+    text-decoration: underline;
+  
+  }
+
+
+
+  /* NAVBAR */
+  #navbar{
+    margin-bottom: 70px;
+  }
+  .navbar-brand{
+    font-family: var(--headfont);
+    /* color:#000; */
+  }
+  .navbar-nav {
+    text-decoration: none;
+    position: absolute;
+    color:#000;
+    right: 0;
+      padding-right: 50px;
+  }
+  .navbar-dark{
+    background-color: #000 !important;
+    color: #fff !important;
+  
+  }
+  
+  /* ---HOME PAGE--- */
+  #start {
+    padding-top: 0px;
+  }
+  
+  #credits {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 190px;
+  }
+  
+  .credits-img {
+    margin: 50px;
+  }
+  .credits-text {
+    font-size: 1rem;
+  }
+  .container-fluid {
+    padding: 0 50px;
+  }
+  
+  .home-div {
+    padding-bottom: 205px;
+  }
+  
+  .heading, .heading-left{
+    font-size: 4rem;
+    font-family: var(--headfont);
+  }
+  .heading-left{
+    text-align: right;
+  }
+  
+  .btn {
+    margin: 15px 15px 0 0;
+    border-color: #000;
+    border-style: double;
+  }
+  .btn:hover{
+    background-color: #000;
+    color: #fff;
+  
+  }
+  .btn-inv{
+    background-color: #000;
+    color: #fff;
+  }
+
+
+/*  */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap'); */
+
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+/* #making-slider{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #EFEFEF;
+} */
+
+#making-slider{
+  padding-top: 40px;
+}
+.slide-container{
+  max-width: 100%;
+  width: 100%;
+  padding: 40 0;
+}
+.slide-content{
+  margin: 0 0px;
+  overflow: hidden;
+  border-radius: 25px;
+}
+
+.card{
+  border-radius: 25px;
+  background-color: #FFF;
+}
+.image-content,
+.card-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 14px;
+}
+.image-content{
+  position: relative;
+  row-gap: 5px;
+  padding: 25px 0;
+}
+.overlay{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #4070F4;
+  border-radius: 25px 25px 0 25px;
+}
+.overlay::before,
+.overlay::after{
+  content: '';
+  position: absolute;
+  right: 0;
+  bottom: -40px;
+  height: 40px;
+  width: 40px;
+  background-color: #4070F4;
+}
+.overlay::after{
+  border-radius: 0 25px 0 0;
+  background-color: #FFF;
+}
+.card-image{
+  position: relative;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background: #FFF;
+  padding: 3px;
+}
+.card-image .card-img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #4070F4;
+}
+.name{
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+}
+.description{
+  font-size: 14px;
+  color: #707070;
+  text-align: center;
+}
+.button{
+  border: none;
+  font-size: 16px;
+  color: #FFF;
+  padding: 8px 16px;
+  background-color: #4070F4;
+  border-radius: 6px;
+  margin: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.button:hover{
+  background: #265DF2;
+}
+
+.swiper-navBtn{
+  color: #6E93f7;
+  transition: color 0.3s ease;
+}
+.swiper-navBtn:hover{
+  color: #4070F4;
+}
+.swiper-navBtn::before,
+.swiper-navBtn::after{
+  font-size: 35px;
+}
+.swiper-button-next{
+  right: 0;
+}
+.swiper-button-prev{
+  left: 0;
+}
+.swiper-pagination-bullet{
+  background-color: #6E93f7;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active{
+  background-color: #4070F4;
+}
+
+@media screen and (max-width: 768px) {
+  .slide-content{
+    margin: 0 10px;
+  }
+  .swiper-navBtn{
+    display: none;
+  }
+}
+
+
+
+/* for recomendation css */
+
+.Recommended {
+  width: 100%;
+  height: 100%;
+}
+
+.Recommended-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.Recommended-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* ----FORMS---- */
+#form {
+  padding-top: 150px;
+}
+
+#long-form {
+  padding-top: 70px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-name {
+  text-align: center;
+  font-size: 3rem;
+  padding-bottom: 3px;
+  font-family: var(--headfont);
+}
+
+.form-control {
+  width: 400px;
+}
+
+.form-button {
+  margin: 0;
+  align-items: flex-end;
+}
+
+
+
+
+
+#hide-bar{
+  display: none;
+  flex-direction: column;
+  width: 30%;
+  border-style: solid;
+  border-width: thin;
+  border-color: #C8C8C8;
+  overflow-x: hidden;
+  padding: 10px;
+  transition: 0.5s;
+  margin:10px;
+}
+.dashhead {
+  text-align: center;
+  font-family: 'Handlee';
+  font-size: 2rem;
+}
+.dashcontrols {
+
+  padding: 0px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.create-button{
+  float: right;
+  margin: 10px;
+}
+
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+
+
+
