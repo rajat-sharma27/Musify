@@ -1,0 +1,54 @@
+<%- include("header") -%>
+<div id="start" class="container-fluid">
+    <div class="swiper mySwiper Recommended">
+        <div class="col-lg-6">
+            <h3 class="mb-3"><a class="navbar-brand mb-0 h1" href ="#">No Playlist</a></h3>
+        </div>
+        <div class="swiper-wrapper" id="song_id">
+            <div class="swiper-slide Recommended-slide">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" style="height: 12rem;" src="../img/IMG20220519111015.jpg"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Add Playlist</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <br>
+    <hr><br>
+</div>
+
+<form action="/playlist" method="POST" class="form-inline">
+    <div class="form-group mx-sm-3 mb-2">
+      <label for="inputPassword2" class="sr-only">Playlist Name</label>
+      <input type="text" class="form-control" name="name">
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Create Playlist</button>
+  </form>
+
+
+
+
+
+<script src="../js/playlist.js"></script>
+<script>
+    $.ajax({
+      url:`/playlist/data`,
+      method:"get",
+      success: function(data){
+        having_playlist(data);
+      }
+    })
+</script>
+<!-- Swiper JS -->
+<script src="../js/swiper-bundle.min.js"></script>
+<!-- Footer -->
+
+<%- include("footer") -%>
+
+    </body>
+
+    </html>

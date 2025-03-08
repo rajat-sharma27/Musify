@@ -2,7 +2,8 @@
 
 
     <div id="start" class="container-fluid">
-        <!-- Recently played
+        <!-- Recently played -->
+      <!-- <% if(hist!=''){%> -->
         <div class="swiper mySwiper Recommended">
             <div class="col-lg-6">
                 <h3 class="mb-3">Recently played</h3>
@@ -21,17 +22,13 @@
                 </div>
             </div>
             <div class="swiper-pagination"></div>
-        </div> --> 
-
-
-
-
-
+        </div> 
+        <!-- <%}%> -->
 
         <!--Songs -->
         <div class="swiper mySwiper Recommended">
             <div class="col-lg-6">
-                <h3 class="mb-3">Songs</h3>
+                <h3 class="mb-3"><a class="navbar-brand mb-3 h1" href ="seeall/loop">Songs</a></h3>
             </div>
             <div class="swiper-wrapper" id="song_id">
                 <div class="swiper-slide Recommended-slide">
@@ -57,7 +54,7 @@
 
         <div class="swiper mySwiper Recommended">
             <div class="col-lg-6">
-                <h3 class="mb-3">Rock</h3>
+                <h3 class="mb-3"><a class="navbar-brand mb-0 h1" href ="seeall/rock">Rock</a></h3>
             </div>
             <div class="swiper-wrapper" id="rock_id">
 
@@ -81,7 +78,7 @@
         <!-- Romance -->
         <div class="swiper mySwiper Recommended">
             <div class="col-lg-6">
-                <h3 class="mb-3">Romance</h3>
+                <h3 class="mb-3"><a class="navbar-brand mb-0 h1" href ="seeall/romance">Romance</a></h3>
             </div>
             <div class="swiper-wrapper" id="romance_id">
 
@@ -107,7 +104,7 @@
         <!-- pop -->
         <div class="swiper mySwiper Recommended">
             <div class="col-lg-6">
-                <h3 class="mb-3">P0P</h3>
+                <h3 class="mb-3"><a class="navbar-brand mb-0 h1" href ="seeall/pop">POP</a></h3>
             </div>
             <div class="swiper-wrapper" id="POP_id">
 
@@ -257,9 +254,9 @@
     <!-- <script>console.log(title)</script> -->
     <!-- home -->
     <script src="../js/home/home.js"></script>
+    <script>historyofsong('<%=hist%>')</script>
 
     <!-- End of Script Tags -->
-
     <%- include("footer") -%>
 
         </body>

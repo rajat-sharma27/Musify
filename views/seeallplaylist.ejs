@@ -1,21 +1,5 @@
 <%- include("header") -%>
 <script src="https://kit.fontawesome.com/7c21f95028.js" crossorigin="anonymous"></script>
-
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Your Playlist</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body" id="add_modal_byme">
-          <h3>No Playlist</h3>
-      </div>
-    </div>
-  </div>
-</div>
     
 <table class="table">
     <thead>
@@ -41,7 +25,7 @@
     </tbody>
   </table>
 
-  <script src="../js/seeall.js"> </script>
-  <script>seeall('<%=id%>','<%=lkSongs%>')</script>
+  <script src="../js/seeplaylist.js"> </script>
+  <script>seeall('<%=grpid%>','<%=songs%>','<%=lkSongs%>')</script>
 
 <%- include("footer") -%>

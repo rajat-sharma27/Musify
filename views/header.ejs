@@ -45,7 +45,94 @@
   <div id="navbar" class="container-fluid">
     <nav class="navbar header navbar-expand-md fixed-top ">
       <div class="container-fluid">
-        <a class="navbar-brand mb-0 h1" href="/">Muxion</a>
+        <a class="navbar-brand mb-0 h1" href="/">Musify</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+           <form action="/search" method="post" class="form-inline" id="search_form">
+            <input class="form-control mr-sm-2" name="text" type="text" placeholder="Search" aria-label="Search" id="search_val">
+            <ul id="onsearch">
+            </ul>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit" name="submit" value="Search"><i class="fas fa-search"></i></button>
+          </form>
+              <li class="nav-item"><a href="/playlist" class="nav-link">playlist</a></li>
+              <li class="nav-item"><a href="/logout" class="nav-link">Logout</a></li>
+          <li class="nav-item"><a href="/contactus" class="nav-link">Contact Us</a></li>
+
+          </li>
+        </ul>
+  </div>
+    </div>
+  </nav>
+
+  </div>
+
+  <!-- code for adding dark mode on scrolling -->
+  <script>
+  $(document).scroll(function() {
+
+        if($(window).scrollTop() === 0) {
+          $(".header").removeClass('navbar-dark');
+   }
+   else{
+     $(".header").addClass('navbar-dark');
+   }
+
+     });
+  </script> 
+
+
+<script src="../js/header.js" ></script>
+  <!-- End of Navbar--><!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title><%=title%>Muxion</title>
+
+
+  <!-- google authentication -->
+  <!-- <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <meta name="google-signin-client_id" content="575713481010-g7j26cqvi8jt3b1ti2jqd06v6g5q4r9o.apps.googleusercontent.com"> -->
+
+  <!-- Load FontAwesome icons -->
+ <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+
+<!-- Load the custom CSS style file -->
+ <link rel="stylesheet" type="text/css" href="/css/player.css">
+
+ 
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Font Awesome Link -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+  <!-- CSS Links -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="/css/swiper-bundle.min.css">
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <!-- jQuery Link -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- <script src="/js/header.js"></script> -->
+</head>
+
+<body>
+  <!-- Start of Navbar -->
+  <div id="navbar" class="container-fluid">
+    <nav class="navbar header navbar-expand-md fixed-top ">
+      <div class="container-fluid">
+        <a class="navbar-brand mb-0 h1" href="/">Musify</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
