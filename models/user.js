@@ -12,11 +12,15 @@ const userSchema = new mongoose.Schema({
     month: {type:String, required:false},
     date: {type:String, required:false},
     year: {type:String, required:false},
+    history:{type:[String], default:[]},
     likedSongs: {type:[String], default:[]},
-    playlists: {type:[String], default:[]},
+    playlists: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Playlist"
+    }],
 });
 
-userSchema.methods.generateAuthToken = function(){
+userSchema.methods.generateAuthToken = async function(){
     const token = jwt.sign(
         {_id: this._id, name:this.name, email:this.email},
         process.env.JWTSECRET,

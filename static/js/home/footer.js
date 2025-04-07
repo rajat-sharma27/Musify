@@ -142,6 +142,15 @@ function loadTrack(obje) {
         for(var i = 0;i<data.data.length;i++){
             if(data.data[i].id==url){
                 loadTrack(data.data[i]);
+                console.log(url);
+                $.ajax({
+                    url:`/addhistory/${url}`,
+                    method:"POST",
+                    success: function(data){
+                        historyofsong(data.history);
+                        // console.log(data.history);
+                    }
+                  })
             }
         }
     })
