@@ -1,7 +1,7 @@
 {
   "name": "musify",
   "version": "1.0.0",
-  "description": "This is a project for webster (Aaviskar 2k22)!",
+  "description": "This is a project.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
