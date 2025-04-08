@@ -51,7 +51,7 @@ app.post('/liked/remove/:id',isAuth, async(req,res)=>{
 app.post('/addsong/:playid/:song_id',isAuth,async(req,res)=>{
     const playid = req.params.playid;
     const song_id = req.params.song_id;
-    await Playlist.findByIdAndUpdate({_id:playid},{$pull:{"songs":song_id}});
+    await Playlist.findByIdAndUpdate({_id:playid},{$push:{"songs":song_id}});
     Playlist.findOne({_id:playid},(err,playlist)=>{
         if(err)console.log("error in adding");
         else{
